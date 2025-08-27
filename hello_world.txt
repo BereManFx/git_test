@@ -1,0 +1,1 @@
+I'm supposed to add some text to my text file. I've got a question "why does the first syntax in virtually every programming language I've learnt so far have to display " hello world"?" why lol
